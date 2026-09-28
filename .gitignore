@@ -1,0 +1,8 @@
+# Publish only these files. Add each new set explicitly.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/FRA/
+/FRA/*
+!/FRA/index.html
